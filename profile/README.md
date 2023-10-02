@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Freaks</h1>
 
-<img src="../assets/frontendfreaks.png" alt="Frontend Freaks Website Home Page Image" />
+<img src="https://github.com/FrontendFreaks/.github/blob/main/assets/frontendfreaks.png" alt="Frontend Freaks Website Home Page Image" />
 
 <div align="center"
 <a href="https://discord.com/invite/vee94km4Wh" target="_blank">
